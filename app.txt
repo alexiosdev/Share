@@ -4,13 +4,32 @@
   "data": [
     {
       "appID": "1236078754",
-      "title": "TOEIC IOS",
+      "title": "Share Text only",
+      "url": "",
+      "share": [
+        "🥺How to improve English? \nDon't worry Follow me here to improve English 👉👉👉👉👉 Daily Learning English"
+      ]
+    },
+    {
+      "appID": "1236078754",
+      "title": "English Test - TOEIC",
       "url": "\n\nIOS: https://itunes.apple.com/app/id1236078754\n\nAndroid: https://play.google.com/store/apps/details?id=com.englishtest",
       "share": [
         "TOEIC Exam - Free TOEIC test online with Answers",
         "TOEIC Exam - Đề thi sát đề thi thật, giải thích rõ ràng, hoàn toàn miễn phí.",
         "Các bạn thi thử TOEIC ở đây nhé. Đề thi sát đề thi thật, giải thích rõ ràng, hoàn toàn miễn phí.",
-        "🥺How to improve English? \nDon't worry Follow me here to improve English 👉👉👉👉👉 Daily Learning English"
+        "Các bạn thi thử TOEIC ở đây nhé. Đề thi sát đề thi thật, giải thích rõ ràng, hoàn toàn miễn phí. Các bài test từ sách ETS TOEIC đã trở lại",
+        "🥺How to improve English? \nDon't worry Follow me here to improve English 👉👉👉👉👉 Daily Learning English",
+        "Với bộ từ vựng siêu đầy đủ dựa theo từ điển oxford và Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết. Học tiếng anh hàng ngày hoàn toàn miễn phí trên ứng dụng.",
+        "Với bộ từ vựng siêu đầy đủ dựa theo từ điển oxford, chức năng tự tạo bộ từ của của riêng bạn siêu tiện dụng. Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết. Học tiếng anh hàng ngày hoàn toàn miễn phí trên ứng dụng.",
+        "Với bộ từ vựng siêu đầy đủ dựa theo từ điển oxford, chức năng tự tạo bộ từ của của riêng bạn siêu tiện dụng. Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết. Các bài test toeic từ sách ETS 2018-2022. Học tiếng anh hàng ngày hoàn toàn miễn phí trên ứng dụng.",
+        "eGrammar contains basic and advanced English grammar edited from English grammar in use with many execises with detailed explanation. Especially, all is free. This app is also very essential for all users who want to practice TOEIC, IELTS, TOEFL including students and English teachers",
+        "Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết, hoàn toàn MIỄN PHÍ, không phải trả tiền mua bài học. Ứng dụng là cuốn sổ tay không thể thiếu với tất cả các bạn từ mất gốc đến các giáo viên dạy tiếng anh, xây dựng nền tảng để thi đại học, TOEIC, IELTS, TOEFL",
+        "The application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
+        "EVocabulary is an FREE application to learn English from basic to advanced, with many diverse topics, including basic English, 3000 common words, TOEIC vocabulary, IELTS & TOEFL, specialized English in many fields. sectors such as tourism, accounting, law, import/export, aviation, marketing, banking, hospitality, information technology, medicine, sports, education, interview Job application, human resourcesThe application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
+        "EVocabulary là ứng dụng học tiếng Anh Miễn phí từ cơ bản đến nâng cao, với nhiều chủ đề đa dạng, gồm tiếng anh cơ bản, từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. Ứng dụng giúp bạn tiếp cận việc học từ vựng theo một cách đơn giản và nhớ từ lâu hơn thông qua các trò chơi học từ vựng thú vị, giúp luyện tập cả 4 kỹ năng nghe – nói – đọc – viết. Ngoài ra, bạn có thể kiểm tra tiến độ học hằng ngày và luôn được chúng tôi nhắc nhở lịch học khi bạn đang bỏ lỡ mục tiêu học tập của mình!",
+        "Học MIỄN PHÍ Từ vựng tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. ",
+        "Học MIỄN PHÍ từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành"
       ]
     },
     {
