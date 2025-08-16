@@ -1,4 +1,3 @@
-
 {
    "code":200,
    "message":"",
@@ -108,43 +107,44 @@
             "Free TOEIC practice tests with detailed answers. Get ready for your exam now!"
          ]
       },
-     "appID":"1236078754",
-     "title":"Egrammar",
-     "url":"\n\nIOS: https://apps.apple.com/app/id1494332956\n\nAndroid: https://play.google.com/store/apps/details?id=mobileapps.egrammar",
-     "share":[
-        "eGrammar contains basic and advanced English grammar edited from English grammar in use with many execises with detailed explanation. Especially, all is free. This app is also very essential for all users who want to practice TOEIC, IELTS, TOEFL including students and English teachers",
-        "Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết, hoàn toàn MIỄN PHÍ, không phải trả tiền mua bài học. Ứng dụng là cuốn sổ tay không thể thiếu với tất cả các bạn từ mất gốc đến các giáo viên dạy tiếng anh, xây dựng nền tảng để thi đại học, TOEIC, IELTS, TOEFL",
-        "เรียนไวยากรณ์อังกฤษฟรี! ตั้งแต่พื้นฐานถึงขั้นสูง พร้อมแบบฝึกหัดและคำอธิบาย chi tiết ดาวน์โหลด eGrammar เลย!",
-        "Master English grammar for free with eGrammar. Perfect for TOEIC, IELTS, and TOEFL prep!",
-        "Học ngữ pháp tiếng Anh miễn phí, từ cơ bản đến nâng cao. Tải eGrammar ngay!",
-        "Làm chủ ngữ pháp tiếng Anh với eGrammar! Từ cơ bản đến nâng cao, tất cả đều MIỄN PHÍ với giải thích chi tiết. Hoàn hảo cho luyện thi TOEIC, IELTS và đại học!",
-        "Stop struggling with English grammar! eGrammar offers comprehensive lessons from basic to advanced, with detailed explanations and exercises. All completely FREE!",
-        "เรียนรู้ไวยากรณ์ภาษาอังกฤษจากระดับพื้นฐานถึงขั้นสูงผ่านแอป eGrammar ฟรี! เหมาะสำหรับการเตรียมสอบ TOEIC, IELTS และ TOEFL",
-        "English grammar made easy! eGrammar provides step-by-step lessons with clear explanations and practical exercises, all for free. Perfect for self-study!",
-        "Từ mất gốc đến thành thạo ngữ pháp tiếng Anh chỉ với một ứng dụng! eGrammar giúp bạn hiểu rõ mọi quy tắc ngữ pháp với các bài tập thực hành phong phú."
-     ]
-  },
-  {
-     "appID":"1236078754",
-     "title":"Vocabulary",
-     "url":"\n\nIOS: https://itunes.apple.com/app/id1226373762\n\nAndroid: https://play.google.com/store/apps/details?id=mobileapps.vocabularyaos",
-     "share":[
-        "The application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
-        "eVocabulary is an FREE application to learn English from basic to advanced, with many diverse topics, including basic English, 3000 common words, TOEIC vocabulary, IELTS & TOEFL, specialized English in many fields. sectors such as tourism, accounting, law, import/export, aviation, marketing, banking, hospitality, information technology, medicine, sports, education, interview Job application, human resourcesThe application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
-        "eVocabulary là ứng dụng học tiếng Anh Miễn phí từ cơ bản đến nâng cao, với nhiều chủ đề đa dạng, gồm tiếng anh cơ bản, từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. Ứng dụng giúp bạn tiếp cận việc học từ vựng theo một cách đơn giản và nhớ từ lâu hơn thông qua các trò chơi học từ vựng thú vị, giúp luyện tập cả 4 kỹ năng nghe – nói – đọc – viết. Ngoài ra, bạn có thể kiểm tra tiến độ học hằng ngày và luôn được chúng tôi nhắc nhở lịch học khi bạn đang bỏ lỡ mục tiêu học tập của mình!",
-        "Học MIỄN PHÍ Từ vựng tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. ",
-        "Học MIỄN PHÍ từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành",
-        "เรียนคำศัพท์ภาษาอังกฤษฟรีทุกระดับ! ผ่านเกมสนุกๆ ฝึกครบ 4 ทักษะ ดาวน์โหลด EVocabulary เลย!",
-        "Learn English vocabulary for free! Games, 4-skill practice, and progress tracking. Download EVocabulary now!",
-        "Học từ vựng tiếng Anh miễn phí chưa bao giờ dễ hơn! Tải EVocabulary ngay!",
-        "Mở rộng vốn từ vựng tiếng Anh của bạn với EVocabulary! Học qua trò chơi tương tác, ghi nhớ lâu dài và hoàn toàn MIỄN PHÍ!",
-        "Trở thành chuyên gia từ vựng tiếng Anh với 3000+ từ theo chủ đề, từ vựng chuyên ngành và luyện tập 4 kỹ năng. Tải EVocabulary ngay!",
-        "Boost your English vocabulary with fun games and effective practice! EVocabulary covers everything from basics to specialized terminology. Download now!",
-        "Need to improve your English vocabulary? EVocabulary offers 3000+ words by topic, specialized terminology, and interactive games to help you learn faster. 100% FREE!",
-        "เพิ่มคลังคำศัพท์ภาษาอังกฤษของคุณด้วย EVocabulary! มากกว่า 3,000 คำแบ่งตามหัวข้อ ศัพท์เฉพาะทาง และเกมสนุกๆ ดาวน์โหลดฟรี!",
-        "Nhớ từ vựng tiếng Anh hiệu quả với EVocabulary - ứng dụng học miễn phí với hơn 3000 từ theo chủ đề và từ vựng chuyên ngành đa dạng!"
-     ]
-  },
+      {
+         "appID":"1236078754",
+         "title":"Egrammar",
+         "url":"\n\nIOS: https://apps.apple.com/app/id1494332956\n\nAndroid: https://play.google.com/store/apps/details?id=mobileapps.egrammar",
+         "share":[
+            "eGrammar contains basic and advanced English grammar edited from English grammar in use with many execises with detailed explanation. Especially, all is free. This app is also very essential for all users who want to practice TOEIC, IELTS, TOEFL including students and English teachers",
+            "Ngữ pháp tiếng anh từ cơ bản đến nâng cao được biên soạn theo cuốn English Grammar In Use với các phần bài tập tương ứng được giải thích chi tiết, hoàn toàn MIỄN PHÍ, không phải trả tiền mua bài học. Ứng dụng là cuốn sổ tay không thể thiếu với tất cả các bạn từ mất gốc đến các giáo viên dạy tiếng anh, xây dựng nền tảng để thi đại học, TOEIC, IELTS, TOEFL",
+            "เรียนไวยากรณ์อังกฤษฟรี! ตั้งแต่พื้นฐานถึงขั้นสูง พร้อมแบบฝึกหัดและคำอธิบาย chi tiết ดาวน์โหลด eGrammar เลย!",
+            "Master English grammar for free with eGrammar. Perfect for TOEIC, IELTS, and TOEFL prep!",
+            "Học ngữ pháp tiếng Anh miễn phí, từ cơ bản đến nâng cao. Tải eGrammar ngay!",
+            "Làm chủ ngữ pháp tiếng Anh với eGrammar! Từ cơ bản đến nâng cao, tất cả đều MIỄN PHÍ với giải thích chi tiết. Hoàn hảo cho luyện thi TOEIC, IELTS và đại học!",
+            "Stop struggling with English grammar! eGrammar offers comprehensive lessons from basic to advanced, with detailed explanations and exercises. All completely FREE!",
+            "เรียนรู้ไวยากรณ์ภาษาอังกฤษจากระดับพื้นฐานถึงขั้นสูงผ่านแอป eGrammar ฟรี! เหมาะสำหรับการเตรียมสอบ TOEIC, IELTS และ TOEFL",
+            "English grammar made easy! eGrammar provides step-by-step lessons with clear explanations and practical exercises, all for free. Perfect for self-study!",
+            "Từ mất gốc đến thành thạo ngữ pháp tiếng Anh chỉ với một ứng dụng! eGrammar giúp bạn hiểu rõ mọi quy tắc ngữ pháp với các bài tập thực hành phong phú."
+         ]
+      },
+      {
+         "appID":"1236078754",
+         "title":"Vocabulary",
+         "url":"\n\nIOS: https://itunes.apple.com/app/id1226373762\n\nAndroid: https://play.google.com/store/apps/details?id=mobileapps.vocabularyaos",
+         "share":[
+            "The application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
+            "eVocabulary is an FREE application to learn English from basic to advanced, with many diverse topics, including basic English, 3000 common words, TOEIC vocabulary, IELTS & TOEFL, specialized English in many fields. sectors such as tourism, accounting, law, import/export, aviation, marketing, banking, hospitality, information technology, medicine, sports, education, interview Job application, human resourcesThe application helps you approach simply learning vocabulary and remember words more through interesting vocabulary learning games, helping to practice all 4 skills of listening - speaking - reading - writing. Plus, you can check your progress every day and get reminded by us on your schedule when you're missing out on your learning goals!",
+            "eVocabulary là ứng dụng học tiếng Anh Miễn phí từ cơ bản đến nâng cao, với nhiều chủ đề đa dạng, gồm tiếng anh cơ bản, từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. Ứng dụng giúp bạn tiếp cận việc học từ vựng theo một cách đơn giản và nhớ từ lâu hơn thông qua các trò chơi học từ vựng thú vị, giúp luyện tập cả 4 kỹ năng nghe – nói – đọc – viết. Ngoài ra, bạn có thể kiểm tra tiến độ học hằng ngày và luôn được chúng tôi nhắc nhở lịch học khi bạn đang bỏ lỡ mục tiêu học tập của mình!",
+            "Học MIỄN PHÍ Từ vựng tiếng anh chuyên ngành nhiều lĩnh vực như Du lịch, Kế toán, ngành luật, xuất nhập khẩu, ngành hàng không, chuyên ngành marketing, tài chính ngân hàng, Nhà hàng - Khách sạn, Công nghệ thông tin, y dược, thể thao, giáo dục, phỏng vấn xin việc, hành chính nhân sự....  được tổng hợp và nghiên cứu kỹ lưỡng bởi đội ngũ những người làm giáo dục tâm huyết. ",
+            "Học MIỄN PHÍ từ vựng theo SGK từ lớp 2 đến lớp 12, 3000 từ vựng theo chủ đề, bộ từ vựng TOEIC, IELTS & TOEFL, tiếng anh chuyên ngành",
+            "เรียนคำศัพท์ภาษาอังกฤษฟรีทุกระดับ! ผ่านเกมสนุกๆ ฝึกครบ 4 ทักษะ ดาวน์โหลด EVocabulary เลย!",
+            "Learn English vocabulary for free! Games, 4-skill practice, and progress tracking. Download EVocabulary now!",
+            "Học từ vựng tiếng Anh miễn phí chưa bao giờ dễ hơn! Tải EVocabulary ngay!",
+            "Mở rộng vốn từ vựng tiếng Anh của bạn với EVocabulary! Học qua trò chơi tương tác, ghi nhớ lâu dài và hoàn toàn MIỄN PHÍ!",
+            "Trở thành chuyên gia từ vựng tiếng Anh với 3000+ từ theo chủ đề, từ vựng chuyên ngành và luyện tập 4 kỹ năng. Tải EVocabulary ngay!",
+            "Boost your English vocabulary with fun games and effective practice! EVocabulary covers everything from basics to specialized terminology. Download now!",
+            "Need to improve your English vocabulary? EVocabulary offers 3000+ words by topic, specialized terminology, and interactive games to help you learn faster. 100% FREE!",
+            "เพิ่มคลังคำศัพท์ภาษาอังกฤษของคุณด้วย EVocabulary! มากกว่า 3,000 คำแบ่งตามหัวข้อ ศัพท์เฉพาะทาง และเกมสนุกๆ ดาวน์โหลดฟรี!",
+            "Nhớ từ vựng tiếng Anh hiệu quả với EVocabulary - ứng dụng học miễn phí với hơn 3000 từ theo chủ đề và từ vựng chuyên ngành đa dạng!"
+         ]
+      },
       {
          "appID":"1236078754",
          "title":"Funny",
